@@ -10,8 +10,3 @@
 </div> 
 
 ˙ :coffee:  ּ  ࿐  ♡
-    
-[<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=C91800" />](https://www.linkedin.com/in/nicolyteixeira/) 
-[<img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=C91800" />](https://behance.net/nico-ly)
-
- **![Snake animation](https://github.com/sayuts/sayuts/blob/output/github-contribution-grid-snake.svg)**
