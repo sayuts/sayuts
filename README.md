@@ -1,9 +1,5 @@
-## Olá, me chamo Ian Marcos
+## bingbing d´s mudo
 
-
-- 🔭 I’m don,t currently working
-- 🌱 I'm starting now in the area of programming 
-- 😄 Pronoums: ele/dele
 <div>
 <a href="https://github.com/sayuts">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayuts&layout=compact&langs_count=7&theme=algolia"/>
