@@ -1,4 +1,4 @@
-## bingbing d´s mudo
+ ˖ ࣪  ﾟ .  :swan:  ࿐  ♡  ˚ . ✧ ˖ ࣪  ˚ ❋ ࣪  ࣭  ⬞  യ  ˚ ˖ ࣪  ಌ  𓈒  ˙ :coffee:  ּ 
 
 <div>
 <a href="https://github.com/sayuts">
