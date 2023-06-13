@@ -1,4 +1,4 @@
- ˖ ࣪  ﾟ .  :swan:  ࿐  ♡  ˚ . ✧ ˖ ࣪˚ ❋  യ ˚ ˖ ࣪  ಌ  𓈒 ˙ :coffee:  ּ 
+ ♡̷ㅤ۫  ֶ֪࿐  🦢 ಌ  ๋ㅤִㅤ ﾟ  
 
 <div>
 <a href="https://github.com/sayuts">
