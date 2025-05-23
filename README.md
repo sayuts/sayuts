@@ -3,9 +3,7 @@
 
 <table>
     <tr>
-        <!-- Ajuste da largura da célula -->
         <td style="width: 70%;">
-            <!-- Ajuste da largura da imagem -->
             <img src="https://i.pinimg.com/736x/0e/b8/66/0eb8661a6db02425eeda163b94505a04.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
@@ -27,7 +25,7 @@
      ⌗ UX/UI designer and computer science enthusiast ﾟ♡
                                             
      ⌗  skills:
-        → branding Design
+        → branding design
         → graphic design
         → photography
 
